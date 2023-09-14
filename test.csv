@@ -1,0 +1,44 @@
+Created,Service Address,City,LQ Result,SAG,Received date,Notes,House Number,Zip Code,Street
+2023-09-14 11:45:00,"['11-2354', 'jungle', 'king', 'ave', 'apt.', 'b', 'mountain', 'view', 'hi', '96771']",apt,0,0,9/14/2023 12:00 AM,ref kira,11-2354,96771,jungle king ave
+2023-09-14 11:44:00,"['12-314', 'w', 'pohakupele', 'loop', 'pahoa', 'hi', '96778']",pahoa,0,0,0,ref kira /resolved ,12-314,96778,w pohakupele loop
+2023-09-13 10:47:00,"['46-1038', 'emepela', 'way', 'apt', '12b,', 'kaneohe,', 'hi', '96744)']",,0,0,9/13/2023 12:00 AM,0,46-1038,No Zip Code,"emepela way apt 12b, kaneohe, hi 96744)"
+2023-09-13 09:17:00,"['11-3295', 'mokuna', 'st', 'volcano', 'hi', '96785']",volcano,0,NGTV=FTTPB,0,0,11-3295,96785,mokuna st
+2023-09-13 09:12:00,"['1743', 'malanai', 'st', 'upstr', 'honolulu', 'hi', '96826']",upstr,0,NGTV=FTTPB,9/13/2023 12:00 AM,0,1743,96826,malanai st
+2023-09-13 08:24:00,"['2724', 'kolo', 'pl', 'apt', '103,', 'honolulu,', 'hi', '96826']",apt,0,0,9/13/2023 12:00 AM,ref kira/ resolved ,2724,96826,kolo pl
+2023-09-13 08:21:00,"['514', 'nininiwai', 'cir', 'lanai,', 'hi', '96763']",lanai,0,0,9/13/2023 12:00 AM,ref kira,514,96763,nininiwai cir
+2023-09-13 08:20:00,"['17-945', 'kukui', 'camp', 'rd', 'apt', 'b', 'mountain', 'view,', 'hi', '96760']",apt,0,0,9/13/2023 12:00 AM,ref kira,17-945,96760,kukui camp rd
+2023-09-11 14:32:00,"['4263', 'kawau', 'pl', 'apt', 'a']",apt,0,0,9/11/2023 12:00 AM,0,4263,No Zip Code,kawau pl
+2023-09-11 12:49:00,"['1141', 'waiono', 'ranch', 'rd']",,0,0,9/11/2023 12:00 AM,0,1141,No Zip Code,waiono ranch rd
+2023-09-11 10:38:00,"['12-168', 'mapuana', 'ave', 'pahoa', 'hi', '96778']",pahoa,AAIS Footage Error ,NGTV=FTTP,9/11/2023 12:00 AM,0,12-168,96778,mapuana ave
+2023-09-11 10:32:00,"['5-509', 'kolokio', 'st,', 'apt', 'b2,', 'kaneohe,', 'hi', '96744']",,0,NGTV=FTTP,9/11/2023 10:30 AM,0,5-509,96744,"kolokio st, apt b2, kaneohe, hi 96744"
+2023-09-11 10:28:00,"['91-207', 'kolili', 'pl,', 'kapolei,', 'hi', '96707']",,0,NGTV=FTTPB,9/11/2023 9:39 AM,0,91-207,96707,"kolili pl, kapolei, hi 96707"
+2023-09-11 10:25:00,"['731', 'kokomo', 'pl', 'apt', 'a', 'honolulu,', 'hi', '96825']",apt,HSI Available ,NGTV=FTTPB,9/11/2023 9:18 AM,0,731,96825,kokomo pl
+2023-09-11 09:56:00,"['27-797', 'kaieie', 'rd', 'apt', '1', 'papaikou,', 'hi', '96781']",apt,0,NGTV=FTTPB,9/11/2023 12:00 AM,0,27-797,96781,kaieie rd
+2023-09-11 08:30:00,"['252', 'kuawa', 'st', 'hse', 'back', 'hilo', 'hi', '96720']",hse,0,0,9/11/2023 12:00 AM,ref kira / resolved kira ,252,96720,kuawa st
+2023-09-11 08:19:00,"['17-4047', 'enos', 'rd', 'unit', '4', 'mountain', 'view', 'hi', '96771']",unit,copper ,NGTV=FTTPB,9/11/2023 12:00 AM,ref kira,17-4047,96771,enos rd
+2023-09-11 08:16:00,"['70', 'nahele', 'rd', 'upstr', 'haiku', 'hi', '96708']",upstr,0,0,9/11/2023 12:00 AM,ref kira/ resolved kira ,70,96708,nahele rd
+2023-09-08 14:50:00,"['83-5320', 'painted', 'church', 'rd']",,0,0,9/8/2023 12:00 AM,0,83-5320,No Zip Code,painted church rd
+2023-09-08 14:41:00,"['address', '99-581', 'honohina', 'st', 'unit', '2']",unit,0,0,9/8/2023 12:00 AM,0,address,No Zip Code,99-581 honohina st
+2023-09-08 13:30:00,"['3979', 'farrington', 'ave', 'bck', 'hse', 'hoolehua,', 'hi', '96729']",bck,0,0,9/8/2023 12:00 AM,ref kira/ resolved kira ,3979,96729,farrington ave
+2023-09-08 13:24:00,"['11-1802', 'paniolo', 'st', 'mountain', 'view', 'hi', '96771']",mountain,0,0,9/8/2023 12:00 AM,ref kida,11-1802,96771,paniolo st
+2023-09-08 13:18:00,"['88-2334', 'milolii', 'rd', 'honaunau', 'hi', '96726']",honaunau,0,0,9/8/2023 12:00 AM,ref kira / resolved nick ,88-2334,96726,milolii rd
+2023-09-08 10:08:00,"['12-290', 'e', 'pohakupele', 'loop', 'pahoa']",pahoa,0,0,9/8/2023 12:00 AM,ref kira / resolved nick ,12-290,No Zip Code,e pohakupele loop
+2023-09-07 13:22:00,"['77-349', 'nohealani', 'st', 'kailua', 'kona', 'hi,', '96740']",kailua,0,0,9/7/2023 12:00 AM,ref kira / resolved kira,77-349,96740,nohealani st
+2023-09-06 14:18:00,"['46-1060', 'emepela', 'way', 'unit', '9b', 'kaneohe', 'hi', '96744']",,0,0,9/6/2023 12:00 AM,ref/ resolved kira ,46-1060,96744,emepela way unit 9b kaneohe hi 96744
+2023-09-06 11:48:00,"['(2477', 'halekoa', 'dr,', 'hse', 'back', 'honolulu,', 'hi', '96821']",,No Facs tied,NGTV=FTTP,9/6/2023 10:47 AM,0,(2477,96821,"halekoa dr, hse back honolulu, hi 96821"
+2023-09-06 10:50:00,"['11-3151', 'ohia', 'ave', 'mountain', 'view']",mountain,0,0,9/6/2023 12:00 AM,ref/ resolved  kira ,11-3151,No Zip Code,ohia ave
+2023-09-06 09:51:00,"['1582', 'kaweloka', 'st', 'pearl', 'city', 'hi', '96782']",pearl,0,NGTV=FTTPB,9/6/2023 9:47 AM,0,1582,96782,kaweloka st
+2023-09-06 08:21:00,"['7511', 'manulele', 'pl']",,0,0,9/5/2023 12:00 AM,order was already placed for this address - jjst was not needed. I018M74,7511,No Zip Code,manulele pl
+2023-09-06 08:15:00,"['68-3905', 'makana', 'kai', 'st', 'unit', '1704']",unit,0,NGTV=FTTP,9/5/2023 12:00 AM,0,68-3905,No Zip Code,makana kai st
+2023-09-06 08:14:00,"['55-1376', 'kaauhuhu', 'hmstd', 'rd', 'bck', 'hse']",bck,0,NGTV=FTTP,9/5/2023 12:00 AM,0,55-1376,No Zip Code,kaauhuhu hmstd rd
+2023-09-05 10:46:00,"['92-1573', 'sea', 'breeze', 'pkwy', 'hse', 'back', 'hi', '96772']",hse,0,NGTV=FTTPB,9/5/2023 12:00 AM,ref kira / resolved kira ,92-1573,96772,sea breeze pkwy
+2023-09-05 10:41:00,"['47-304', 'lulani', 'st', 'apt', 'e', 'kaneohe', 'hi', '96744']",apt,0,NGTV=FTTPB,9/5/2023 12:00 AM,kira,47-304,96744,lulani st
+2023-09-01 16:18:00,"['74-1466', 'hao', 'kuni', 'st', 'hse', 'back']",hse,0,0,9/1/2023 4:07 PM,0,74-1466,No Zip Code,hao kuni st
+2023-09-01 12:30:00,"['3056', 'kaumana', 'dr,', 'hilo,', 'hi', '96720']",,0,0,9/1/2023 12:00 AM,0,3056,96720,"kaumana dr, hilo, hi 96720"
+2023-09-01 10:32:00,"['91-257', 'hanapouli', 'cir', 'apt', 'c']",apt,0,0,9/1/2023 12:00 AM,0,91-257,No Zip Code,hanapouli cir
+2023-09-01 10:24:00,"['1389', 'alewa', 'dr', 'upstr']",upstr,0,0,9/1/2023 12:00 AM,0,1389,No Zip Code,alewa dr
+2023-09-01 09:57:00,"['16-2093', 'jewel', 'drive']",,0,0,9/1/2023 12:00 AM,0,16-2093,No Zip Code,jewel drive
+2023-09-01 09:52:00,"['229', 'upper', 'kimo', 'drive', 'kula']",kula,0,0,9/1/2023 12:00 AM,0,229,No Zip Code,upper kimo drive
+2023-09-01 09:26:00,"['55-459', 'moana', 'st', 'apt', 'a']",apt,0,0,9/1/2023 12:00 AM,0,55-459,No Zip Code,moana st
+2023-09-01 08:51:00,"['73-4185', 'mamalahoa', 'hwy', 'hse', 'back', 'hi', '96740']",hse,0,0,9/1/2023 12:00 AM,0,73-4185,96740,mamalahoa hwy
+2023-09-01 08:22:00,"['7511', 'manulele', 'pl']",,Copper products,NGTV=FTTPB,8/31/2023 5:28 PM,order was already placed- no JJST was needed ,7511,No Zip Code,manulele pl
